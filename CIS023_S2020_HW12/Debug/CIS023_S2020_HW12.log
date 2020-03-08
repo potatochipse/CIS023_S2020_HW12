@@ -1,0 +1,7 @@
+﻿  CIS023_S2020_HW12.cpp
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW12\CIS023_S2020_HW12\CIS023_S2020_HW12.cpp(152,43): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW12\CIS023_S2020_HW12\CIS023_S2020_HW12.cpp(168,45): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW12\CIS023_S2020_HW12\CIS023_S2020_HW12.cpp(186,46): warning C4302: 'type cast': truncation from 'HWND' to 'WORD'
+  ListClass.cpp
+  Generating Code...
+  CIS023_S2020_HW12.vcxproj -> D:\Desktop\CIS 022 HW\CIS023_S2020_HW12\Debug\CIS023_S2020_HW12.exe
